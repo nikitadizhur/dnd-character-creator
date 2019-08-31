@@ -18,7 +18,8 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react",
-    "noImplicitReturns": true
+    "noImplicitReturns": true,
+    "types": ["cypress"]
   },
   "include": [
     "src"
