@@ -23,7 +23,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "cypress": "^3.4.1",
+    "cypress": "^15.9.0",
     "react-test-renderer": "^16.9.0",
     "source-map-loader": "^0.2.4",
     "ts-loader": "^6.0.4",
