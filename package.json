@@ -16,14 +16,14 @@
     "@types/react-dom": "16.9.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1",
+    "react-scripts": "5.0.1",
     "xstate": "^4.6.7"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
   "devDependencies": {
-    "cypress": "^3.4.1",
+    "cypress": "^15.10.0",
     "react-test-renderer": "^16.9.0",
     "source-map-loader": "^0.2.4",
     "ts-loader": "^6.0.4",
